@@ -3,4 +3,4 @@ Esse repositório possui a resposta um dos exercícios que me foram requisitados
 
 # Exibido na Web:
 <p><img src="Forms.PNG"></p>
-<p><img src="Result.PNG"></p>
+
